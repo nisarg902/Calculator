@@ -1,33 +1,27 @@
-# Calculator Project
+📂 Project Structure
+Plaintext
+├── index.html   # Markup structure for the calculator
+├── style.css    # Styling and responsive grid layout
+└── script.js    # Logic for calculations and event listeners
+⚙️ How to Run
+Clone the repository:
 
-This is a simple calculator made using HTML, CSS, and JavaScript. It can perform basic operations like addition, subtraction, multiplication, and division.
+Bash
+git clone https://github.com/your-username/calculator-app.git
+Navigate to the project directory:
 
-## Technologies Used
+Bash
+cd calculator-app
+Open the application:
+Simply open index.html in any modern web browser.
 
-- HTML  
-- CSS  
-- JavaScript  
+📝 Usage
+Click the number buttons to input values.
 
-## Features
+Use operators (/, *, -, +) to define your calculation.
 
-- Easy to use design  
-- Handles basic arithmetic operations  
-- Clear button to reset the input  
+Press = to evaluate the result.
 
-## Folder Structure
+Use ← to correct a mistake or C to reset the calculator entirely.
 
-calculator/  
-├── index.html  
-├── style.css  
-└── script.js  
-
-## How to Run
-
-1. Download or clone the project folder  
-2. Open the file `index.html` in your browser  
-
-## About
-
-Created by Nisarg Vishnu Wanve  
-Email: nisargwanve1@gmail.com  
-GitHub: https://github.com/nisarg902  
+Developed by Nisarg Wanve
