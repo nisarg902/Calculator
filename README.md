@@ -24,5 +24,4 @@ Plaintext
 ├── index.html   # Markup structure for the calculator
 ├── style.css    # Styling and responsive grid layout
 └── script.js    # Logic for calculations and event listeners<img width="474" height="567" alt="Screenshot 2026-04-10 042154" src="https://github.com/user-attachments/assets/b3c881b0-a631-445b-882f-c7867b9e6f07" />
-<img width="474" height="567" alt="Screenshot 2026-04-10 042154" src="https://github.com/user-attachments/assets/8d631137-5da7-4ce2-bd8f-18e195baaed5" />
 
